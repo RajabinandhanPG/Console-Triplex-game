@@ -12,18 +12,10 @@ Console-Triplex-game is a simple math-based game where players need to guess a n
 
 ## How to Play
 
-
+The player will have to find the randomized encrypted code by solving arethimatic operation within the given time limit.
 
 ## Installation
 
-
-
-## Usage
-
-
-
-## License
-
-This project is licensed under the (unreal Lisence).
+The Game can be either run by launching the triplex.exe file or compiling the triplex.cpp file in any python compiler
 
 
